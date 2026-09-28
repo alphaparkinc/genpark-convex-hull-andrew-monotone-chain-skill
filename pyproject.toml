@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-convex-hull-andrew-monotone-chain-skill"
+version = "1.0.0"
+description = "Andrew's Monotone Chain 2D convex hull algorithm with cross-product orientation test and polygon geometry"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
