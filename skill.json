@@ -1,0 +1,20 @@
+{
+  "name": "genpark-convex-hull-andrew-monotone-chain-skill",
+  "version": "1.0.0",
+  "description": "Andrew's Monotone Chain 2D convex hull algorithm with cross-product orientation test and polygon geometry",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "convex-hull",
+    "computational-geometry",
+    "monotone-chain",
+    "graham-scan",
+    "geometry",
+    "python-standard-library",
+    "agent-skills",
+    "polygon",
+    "spatial-algorithms",
+    "shoelace-formula"
+  ]
+}
